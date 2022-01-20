@@ -3,6 +3,11 @@
 My experiments with the OpenCV OAK D Lite Ai camera and the DepthAi API.
 
 <br>
+<img src="https://github.com/vbookshelf/OAK-D-Lite-Experiments/blob/main/images/oak-d-lite.jpg" width="700"></img>
+<i>OAK D Lite Camera</i><br>
+<br>
+
+<br>
 
 ### Experiments
 
