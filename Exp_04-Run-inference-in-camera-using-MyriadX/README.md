@@ -18,7 +18,8 @@ https://github.com/luxonis/depthai-tutorials/blob/master/1-hello-world/hello_wor
 - I needed to install blobconverter on the Pi:<br>
 $ pip install blobconverter
 - The model detects people.
+- The Raspberry Pi has USB 2.0 and not the faster USB 3.0 for which the camera was designed.
 - The program ran smoothly on both the Mac and Raspberry Pi. Predictions are in real time and there's no lag.
-- The fast and real time performance on the Raspberry Pi (only 512MB RAM) exceeded my expectations.
+- The fast and real time performance on the Raspberry Pi (only 512MB RAM, USB 2.0) exceeded my expectations.
 
 <br>
