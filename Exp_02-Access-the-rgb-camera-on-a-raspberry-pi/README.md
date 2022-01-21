@@ -10,7 +10,7 @@
 <br>
 
 ### Notes
-
+- I've included a pdf that explains the steps I followed to install OpenCV on the Raspberry Pi.
 - The process to install DepthAi on the Pi is not the same as for the Mac.
 - These are the installation steps:
 
@@ -32,3 +32,6 @@ This is the fix from the Luxonis docs:
 First unplug the Oak D Lite from the USB connection on the Raspberry Pi. Then type these two commands on the Pi command line:<br>
 $ echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="03e7", MODE="0666"' | sudo tee /etc/udev/rules.d/80-movidius.rules<br>
 $ sudo udevadm control --reload-rules && sudo udevadm trigger<br>
+
+
+<br>
