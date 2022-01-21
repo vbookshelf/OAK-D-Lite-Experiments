@@ -1,7 +1,7 @@
 ## Exp_02 - Access the RGB Camera on a Raspberry Pi 3 A+
 
 ### Objectives
-- Install DepthAi on the Pi.
+- Install DepthAi on a Raspberry Pi that's running Raspberry Pi OS.
 - Run the attached python code on the Pi. The code simply displays a window showing the feed from the RGB canera.
 
 <br>
