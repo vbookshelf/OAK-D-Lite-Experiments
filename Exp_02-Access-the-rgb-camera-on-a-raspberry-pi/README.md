@@ -22,7 +22,7 @@ Step 2<br>
 Docs: https://docs.luxonis.com/projects/api/en/latest/install/#install-from-pypi<br>
 $ python3 -m pip install depthai<br>
 
-Step 3<br>
+Error Fix<br>
 When running the python code I got this error:<br>
 Failed to find device (ma2480), error message: X_LINK_DEVICE_NOT_FOUND<br>
 Docs: https://docs.luxonis.com/en/latest/pages/troubleshooting/#failed-to-boot-the-device-1-3-ma2480-err-code-3
