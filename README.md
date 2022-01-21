@@ -22,3 +22,6 @@ https://github.com/vbookshelf/OAK-D-Lite-Experiments/tree/main/Exp_01-Access-the
 - Exp_02 - Access the RGB Camera on a Raspberry Pi<br>
 Learning how to install and run the DepthAi API on a Raspberry Pi 3 A+.<br>
 https://github.com/vbookshelf/OAK-D-Lite-Experiments/tree/main/Exp_02-Access-the-rgb-camera-on-a-raspberry-pi
+
+- Exp_03 - Pass the rgb camera feed into a Mediapipe Hand Tracking model for CPU inference<br>
+Pass the video feed from the rgb camera into a Mediapipe hand tracking model. Use the CPU for inference and not the Myriad X chip.
