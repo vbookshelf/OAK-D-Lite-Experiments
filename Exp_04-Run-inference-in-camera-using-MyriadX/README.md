@@ -14,7 +14,7 @@ https://github.com/luxonis/depthai-tutorials/blob/master/1-hello-world/hello_wor
 
 ### Notes
 - I modified the original tutorial code so that the frame rate (fps) is displayed on the image. Then I just ran it on the Mac and Raspberry Pi without any changes.
-- The code includes loading an OpenVino model and then using if for inference.
+- The code includes loading an OpenVINO model and then using if for inference.
 - I needed to install blobconverter on the Pi:<br>
 $ pip install blobconverter
 - The model detects people.
