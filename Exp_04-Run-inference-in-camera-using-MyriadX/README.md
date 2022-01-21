@@ -19,4 +19,6 @@ https://github.com/luxonis/depthai-tutorials/blob/master/1-hello-world/hello_wor
 $ pip install blobconverter
 - The model detects people.
 - The program ran smoothly on both the Mac and Raspberry Pi. Predictions are in real time and there's no lag.
-- The fast and real time performance on the Raspberry Pi exceeded my expectations.
+- The fast and real time performance on the Raspberry Pi (only 512MB RAM) exceeded my expectations.
+
+<br>
