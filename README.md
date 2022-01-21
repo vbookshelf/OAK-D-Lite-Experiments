@@ -1,6 +1,10 @@
 ## OAK-D-Lite-Experiments
 
-My experiments with the OpenCV OAK D Lite Ai camera and the DepthAi API.
+Experiments with the OpenCV OAK D Lite Ai camera and the DepthAi API.
+
+<br>
+
+My purpose is to learn to use the Oak D Lite camera and to set up boilerplate code that I can use on future projects.
 
 <br>
 <img src="https://github.com/vbookshelf/OAK-D-Lite-Experiments/blob/main/images/oak-d-lite.jpg" width="500"></img>
