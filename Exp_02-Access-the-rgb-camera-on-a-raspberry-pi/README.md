@@ -20,7 +20,7 @@ $ sudo curl -fL https://docs.luxonis.com/install_dependencies.sh | bash<br>
 
 Step 2<br>
 Docs: https://docs.luxonis.com/projects/api/en/latest/install/#install-from-pypi<br>
-python3 -m pip install depthai<br>
+$ python3 -m pip install depthai<br>
 
 Step 3<br>
 When running the python code I got this error:<br>
