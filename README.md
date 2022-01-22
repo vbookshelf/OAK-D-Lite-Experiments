@@ -31,4 +31,7 @@ https://github.com/vbookshelf/OAK-D-Lite-Experiments/tree/main/Exp_03-rgb-feed-w
 Run the Luxonis hello_world.py program on the Mac and on the Raspberry Pi to check the performance.<br>
 https://github.com/vbookshelf/OAK-D-Lite-Experiments/tree/main/Exp_04-Run-inference-in-camera-using-MyriadX
 
+- Exp_05 - Explore how image pre-processing is being handled<br>
+In the Luxonis hello.py example, try to understand how the pre-processing steps (normalization, RGB to BGR) are being handled.<br>
+
 <br>
