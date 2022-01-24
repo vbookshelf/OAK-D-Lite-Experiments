@@ -33,5 +33,6 @@ https://github.com/vbookshelf/OAK-D-Lite-Experiments/tree/main/Exp_04-Run-infere
 
 - Exp_05 - Explore how image pre-processing is being handled in hello_world.py<br>
 In the Luxonis hello_world.py example, try to understand how the pre-processing steps (normalization, RGB to BGR) are being handled.<br>
+https://github.com/vbookshelf/OAK-D-Lite-Experiments/tree/main/Exp_05%20-%20Explore%20image%20preprocessing%20in%20hello_world%20example
 
 <br>
